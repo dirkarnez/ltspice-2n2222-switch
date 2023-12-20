@@ -11,3 +11,4 @@ From [How To Connect A NPN transistor as a switch - 2n2222, 2N3904, etc - YouTub
   
 ### TODOs
 - [ ] Datasheet for DC Load line calculation
+- [ ] calculation program?
